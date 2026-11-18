@@ -42,11 +42,6 @@ The dashboard helps transform raw hospital data into meaningful insights for und
 - Data Visualization
 - Dashboard Design
 
-## 📷 Dashboard Preview
-
-![Hospital Emergency Room Dashboard]
-(C:\Users\DELL\Downloads\Hospital Emergency Room Dashboard.png)
-
 ## 💡 Key Learnings
 - Gained practical experience in analyzing healthcare data.
 - Learned to create interactive dashboards using Excel.
